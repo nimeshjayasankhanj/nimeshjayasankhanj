@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nimesh
 
 💻 Full-Stack Engineer | AI Enthusiast | Software Architect  
-🇱🇰 Sri Lanka | 5+ Years Experience
+🇱🇰 Sri Lanka | 7+ Years Experience
 
 ---
 
@@ -16,31 +16,26 @@
 ## 👨‍💻 Professional Experience
 Full-stack engineer with **7+ years of experience** shipping production software across **telecom, sports analytics, SaaS, and ERP platforms**.
 
-- ⚙️ Built and scaled full-stack applications using:
-  - React / Next.js / Vue.js (Frontend)
-  - Laravel / Node.js / NestJS (Backend)
-- ☁️ Worked with cloud platforms:
-  - AWS & Azure
-- 🏗️ Experienced in:
-  - End-to-end feature ownership
-  - System design & architecture decisions
-  - Performance optimization & scalability
-- 👨‍🏫 Currently mentoring engineers and contributing to technical direction on a **UK-based product team**
+- ⚙️ Built and delivered end-to-end features across frontend and backend systems
+- 🧠 Strong in system design, scalable architecture, and performance optimization
+- 👨‍🏫 Mentoring engineers and contributing to technical direction on a **UK-based product team**
+- ☁️ Experienced working with cloud environments like **AWS & Azure**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 - ⚛️ React
-- 🔺 Next.js
+- ▲ Next.js
 - 🟢 Vue.js
+- 🅰️ AngularJS
 
-### ⚙️ Backend
-- 🐍 FastAPI
+### 🧩 Backend Development
+- 🐘 Laravel
 - 🟢 Node.js
-- 🧩 NestJS
-- 🟣 Laravel
+- 🧱 NestJS
+- 🐍 Python
 
 ### 🤖 AI / ML
 - 🧠 LangChain
