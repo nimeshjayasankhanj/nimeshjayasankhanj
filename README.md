@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 Professional Experience
-Full-stack engineer with **7+ years of experience** shipping production software across **telecom, sports analytics, SaaS, and ERP platforms**.
+Full-stack engineer with **5+ years of experience** shipping production software across **telecom, sports analytics, SaaS, and ERP platforms**.
 
 - ⚙️ Built and delivered end-to-end features across frontend and backend systems
 - 🧠 Strong in system design, scalable architecture, and performance optimization
