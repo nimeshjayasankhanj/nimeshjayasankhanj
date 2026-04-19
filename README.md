@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nimesh
 
 💻 Full-Stack Engineer | AI Enthusiast | Software Architect  
-🇱🇰 Sri Lanka | 7+ Years Experience
+🇱🇰 Sri Lanka | 5+ Years Experience
 
 ---
 
