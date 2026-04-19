@@ -1,5 +1,9 @@
 # Hi 👋, I'm Nimesh
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQGa3tE_rPuLfQ/profile-displayphoto-crop_800_800/B56Z1CFDaXKEAI-/0/1774930118776?e=1778112000&v=beta&t=HWD1V_WTG1--mqoiD96ZHmgkhlv0LbiA3tzzbfx49B8" width="180" style="border-radius: 50%;" />
+</p>
+
 💻 Full-Stack Engineer | AI Enthusiast | Software Architect  
 🇱🇰 Sri Lanka | 5+ Years Experience
 
