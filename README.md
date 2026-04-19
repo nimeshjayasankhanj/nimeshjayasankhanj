@@ -1,8 +1,15 @@
-# Hi 👋, I'm Nimesh
+<table>
+  <tr>
+    <td width="180" valign="top">
+      <img 
+        src="https://media.licdn.com/dms/image/v2/D5603AQGa3tE_rPuLfQ/profile-displayphoto-crop_800_800/B56Z1CFDaXKEAI-/0/1774930118776?e=1778112000&v=beta&t=HWD1V_WTG1--mqoiD96ZHmgkhlv0LbiA3tzzbfx49B8" 
+        width="160" 
+        style="border-radius: 50%;"
+      />
+    </td>
+    <td>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQGa3tE_rPuLfQ/profile-displayphoto-crop_800_800/B56Z1CFDaXKEAI-/0/1774930118776?e=1778112000&v=beta&t=HWD1V_WTG1--mqoiD96ZHmgkhlv0LbiA3tzzbfx49B8" width="180" style="border-radius: 50%;" />
-</p>
+# Hi 👋, I'm Nimesh
 
 💻 Full-Stack Engineer | AI Enthusiast | Software Architect  
 🇱🇰 Sri Lanka | 5+ Years Experience
@@ -14,6 +21,10 @@
 - 🌱 Learning **LangChain, LLM apps, and System Design**
 - 💡 Passionate about **AI agents, backend systems, and scalable architecture**
 - 🧠 Strong focus on **clean architecture & production-grade systems**
+
+    </td>
+  </tr>
+</table>
 
 ---
 
